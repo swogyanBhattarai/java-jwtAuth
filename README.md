@@ -1,4 +1,4 @@
-# JWT Authentication – Minimal Spring Boot Example
+# JWT Authentication - Minimal Spring Boot Example
 
 This project demonstrates a minimal and correct implementation of JWT-based authentication using Spring Boot and Spring Security. It is intentionally simple and designed to show the core concepts of stateless authentication without introducing databases, user models, roles, or additional complexity.
 
